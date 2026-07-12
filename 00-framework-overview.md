@@ -8,8 +8,7 @@ two layers working together:
 
 - **SANS PICERL** provides the six phases every incident moves through: Preparation,
   Identification, Containment, Eradication, Recovery, Lessons Learned.
-- **The 16-Step Battle Procedure** (NATO/Commonwealth military planning doctrine) provides
-  the tempo discipline inside those phases — how a commander moves a team from
+- **The 16-Step Battle Procedure** (NATO/Commonwealth military planning doctrine) provides how a commander moves a team from
   notification to synchronized action under time pressure, without wasted motion.
 
 PICERL tells you *what* phase you're in. Battle procedure tells you *how fast and how
