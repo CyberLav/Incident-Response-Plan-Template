@@ -28,7 +28,7 @@ scope until confirmed.]*
 
 ## Regulatory Notification
 
-*[Populate per jurisdiction — see Annex A for notification clock triggers. Route through
+*[Populate per jurisdiction see Annex A for notification clock triggers. Route through
 Legal before sending.]*
 
 ---
