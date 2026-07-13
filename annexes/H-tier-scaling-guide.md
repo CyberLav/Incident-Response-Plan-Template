@@ -8,7 +8,7 @@ matches your organization and apply its adjustments on top of phases 01–06.
 - Formality: verbal/chat-based orders acceptable; SMESC format still recommended for
   anything beyond a SEV3/4 incident
 - IC may hold multiple roles simultaneously (see [Annex B](B-raci-matrix.md))
-- Tooling assumption: basic logging, no dedicated SIEM/SOAR — investigation steps in
+- Tooling assumption: basic logging, no dedicated SIEM/SOAR, investigation steps in
   [Containment](../03-containment.md) may take longer; adjust time targets accordingly
 
 ## Mid-size (dedicated security team, no full SOC)
