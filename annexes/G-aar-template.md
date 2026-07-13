@@ -12,13 +12,13 @@ Participants: [list]
    [Plan as written / expected sequence]
 
 2. WHAT ACTUALLY HAPPENED
-   [Factual timeline — no blame language]
+   [Factual timeline. Avoid blame language]
 
 3. WHY THE DIFFERENCE
    [Root cause: process / tooling / people / plan itself]
 
 4. SUSTAIN
-   [What worked — do not change]
+   [What worked  (do not change)]
 
 5. IMPROVE
    [Action item] — Owner: [name] — Due: [date]
