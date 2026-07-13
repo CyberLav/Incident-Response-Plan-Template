@@ -12,15 +12,15 @@ written.
 
 ## Containment — Type-Specific Options
 
-- **Isolate, don't shut down**, where possible — powering off can destroy volatile evidence
+- **Isolate, don't shut down**, powering off can destroy volatile evidence
   and encryption keys held in memory that may enable recovery without paying
 - Network segmentation to stop lateral spread takes priority over individual host cleanup
-- Identify and isolate the backup infrastructure immediately — ransomware operators
+- Identify and isolate the backup infrastructure immediately. Ransomware operators
   frequently target backups first
 
 ## Additional Stakeholders
 
-- Executive sponsor and legal involved from activation, not just at containment — the
+- Executive sponsor and legal involved from activation, not just at containment. The
   ransom-payment decision requires this
 - Cyber insurance carrier notified early; many policies require notification before
   incurring response costs to remain covered
@@ -33,7 +33,7 @@ written.
 
 ## Ransom Payment Decision
 
-- Not a technical decision — routed to Executive Sponsor + Legal per
+- Not a technical decision, routed to Executive Sponsor + Legal per
   [Annex B](../annexes/B-raci-matrix.md)
 - Log the decision and full rationale in the [decision log](../annexes/E-decision-log-template.md)
   regardless of outcome
