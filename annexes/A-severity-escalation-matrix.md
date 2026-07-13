@@ -7,7 +7,7 @@
 | SEV3 | Suspected compromise, unconfirmed, limited scope | Team lead notified, IC activated within 2 hrs | Full 16-step followed |
 | SEV4 | Anomaly requiring investigation, no confirmed compromise | Standard triage queue | Investigation only; full activation not required unless escalated |
 
-> Add jurisdiction-specific regulatory notification timelines here — e.g., breach
+> Add jurisdiction-specific regulatory notification timelines here: e.g., breach
 > notification clocks, sector-specific requirements (PIPEDA, GDPR, state breach laws, etc.)
 
 ---
