@@ -34,7 +34,7 @@
 
 Issue a formal containment order using the SMESC format.
 
-→ [Order Builder](https://cyberlav.io/order-builder.html) or [Annex C](../annexes/C-smesc-order-template.md)
+→ [Order Builder](https://cyberlav.io/irp/order-builder.html) or [Annex C](../annexes/C-smesc-order-template.md)
 
 - [ ] Short term containment executed, isolate, block, disable
   - Velociraptor: isolate the host at the endpoint level
