@@ -23,8 +23,8 @@ Full detail: [Annex B](../annexes/B-raci-matrix.md)
 
 ## Live tools
 
-- [Back Brief Builder](https://cyberlav.io/backbrief-builder.html), confirms understanding before you execute
-- [Order Builder](https://cyberlav.io/order-builder.html), generates a formal SMESC order
+- [Back Brief Builder](https://cyberlav.io/irp/backbrief-builder.html), confirms understanding before you execute
+- [Order Builder](https://cyberlav.io/irp/order-builder.html), generates a formal SMESC order
 
 
 ## Tool key used throughout this Job Aid
